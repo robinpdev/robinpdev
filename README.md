@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @robinpdev
-- 👀 I’m interested in C++, web technologies, 3D graphics, microcontrollers...
-- 🌱 I’m currently learning web technologies, python
-- 💞️ I’m looking to collaborate on websites
-- 📫 How to reach me: robinpdev@gmail.com
+Java, C/C++, Javascript/TS (Node, Electron, Svelte, Vue), Firebase, Haskell, Python, ...
